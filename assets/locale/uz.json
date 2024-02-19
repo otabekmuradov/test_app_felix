@@ -1,0 +1,23 @@
+{
+    "languages" : "Tillar",
+    "choose_lang" : "Tilni tanlash",
+    "sign_up" : "Ro'yxatdan o'tish",
+    "first_name" : "Ism",
+    "enter_fname" : "Ismingizni kiriting",
+    "last_name" : "Familiya",
+    "enter_lname" : "Familiyangizni kiriting",
+    "phone_num" : "Telefon raqam",
+    "password" : "Parol",
+    "enter_pass" : "Parolni kiriting",
+    "confirm_pass" : "Parolni tasdiqlang",
+    "enter_cpass" : "Parolni tasdiqlashni kiriting",
+    "save" : "Saqlash",
+    "new_ads" : "Yangilar",
+    "title" : "Sarlavha",
+    "enter_title" : "Mahsulot sarlavhasini kiriting",
+    "description" : "Mahsulot tavsifi",
+    "enter_desc" : "Tavsifni kiriting",
+    "change_loc" : "Joylashuvni o'zgartirish",
+    "address_by_loc": "Joylashuv bo'yicha manzil",
+    "map_address" : "Xarita manzilini kiriting"
+}

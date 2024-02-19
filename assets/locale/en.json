@@ -1,0 +1,23 @@
+{
+    "languages" : "Languages",
+    "choose_lang" : "Choose a language",
+    "sign_up" : "Sign Up",
+    "first_name" : "First name",
+    "enter_fname" : "Enter your first name",
+    "last_name" : "Last name",
+    "enter_lname" : "Enter your last name",
+    "phone_num" : "Phone number",
+    "password" : "Password",
+    "enter_pass" : "Enter your password",
+    "confirm_pass" : "Confirm your password",
+    "enter_cpass" : "Enter confirm password",
+    "save" : "Save",
+    "new_ads" : "New Ads",
+    "title" : "Title",
+    "enter_title" : "Enter product title",
+    "description" : "Product description",
+    "enter_desc" : "Enter the description",
+    "change_loc" : "Change location",
+    "address_by_loc": "Address by location",
+    "map_address" : "Enter the map address"
+}
